@@ -1,0 +1,21 @@
+{
+    "data_root": "sample_s2s_for_v1/200k/",
+    "saves_root": "sample_s2s_for_v1/200k/",
+    "model_save_filename": "best_encoder.pth",
+    "out_dim": 64,
+    "batch_size": 64,
+    "hidden_channels": 64,
+    "min_nodes_per_graph": 10,
+    "max_nodes_per_graph": 100,
+    "epochs": 100,
+    "warmup_epochs": 5,
+    "learning_rate": 0.0001,
+    "hidden_dim": 128,
+    "temperature": 0.1,
+    "lambda_val": 1.0,
+    "patience": 30,
+    "proj_dim": 128,
+    "num_clusters": 5,
+    "knn_k": 10,
+    "blend_alpha": 0.25
+}

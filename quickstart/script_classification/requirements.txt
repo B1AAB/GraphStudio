@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+umap-learn
+tqdm
+ipywidgets
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch
+torchvision
+
+torch_geometric
+tensorboard
