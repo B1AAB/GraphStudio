@@ -39,7 +39,7 @@ graph LR
     click apps "https://github.com/B1AAB/GraphStudio/blob/main/quickstart/" "Off-chain resources"
     click neo4j "https://drive.google.com/drive/folders/11X6QiVvWSOzxvDIAD0OWu3g2Sa0as3UQ?usp=sharing" "Graph in Neo4j"
     click neo4jDump "https://drive.google.com/drive/folders/1bAsjgVaIQrG2TDGkMtIEDPX8xKoiHJUf?usp=sharing" "Neo4j Dump"
-    click coms "https://www.kaggle.com/datasets/vjalili/bitcoin-graph-sampled-communities/data" "Sampled Communities"
+    click coms "https://www.kaggle.com/datasets/aab/bitcoin-graph-sampled-communities" "Sampled Communities"
 
     %% --- Styling ---
     %%style eba fill:#ff9e00,stroke:#ff9e00,color:#000
