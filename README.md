@@ -11,7 +11,6 @@ We share the complete ETL pipeline and all the data it generates.
 To simplify working with the pipeline and its resources, 
 we have split them into separate repositories. 
 The following resource map will help you navigate to the resources that suit your application. 
-See this page for details.
 
 
 ```mermaid
@@ -45,6 +44,11 @@ graph LR
     %%style eba fill:#ff9e00,stroke:#ff9e00,color:#000
     style eba fill:#5a189a,stroke:#5a189a,color:#fff
 ```
+
+Our [101 Tutorial Notebook](https://github.com/B1AAB/GraphStudio/blob/main/g101/g101.ipynb)
+provides an end-to-end glance at these methods and resources; 
+it guides you from the raw data, through the graph pipeline, 
+to the final step of training and evaluating a complete model.
 
 
 Here you'll find [end-to-end examples](#implemented-solutions) for working with this graph, 
